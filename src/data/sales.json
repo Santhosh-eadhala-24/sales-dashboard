@@ -1,0 +1,304 @@
+{
+ "2012": [
+  {
+   "month": "May",
+   "sales": 370630
+  },
+  {
+   "month": "Jun",
+   "sales": 399493
+  },
+  {
+   "month": "Jul",
+   "sales": 185814
+  },
+  {
+   "month": "Aug",
+   "sales": 76642
+  },
+  {
+   "month": "Sep",
+   "sales": 74788
+  },
+  {
+   "month": "Oct",
+   "sales": 292620
+  },
+  {
+   "month": "Nov",
+   "sales": 193105
+  },
+  {
+   "month": "Dec",
+   "sales": 797089
+  }
+ ],
+ "2013": [
+  {
+   "month": "Jan",
+   "sales": 164075
+  },
+  {
+   "month": "Feb",
+   "sales": 505298
+  },
+  {
+   "month": "Mar",
+   "sales": 426255
+  },
+  {
+   "month": "Apr",
+   "sales": 243493
+  },
+  {
+   "month": "May",
+   "sales": 141015
+  },
+  {
+   "month": "Jun",
+   "sales": 606089
+  },
+  {
+   "month": "Jul",
+   "sales": 406488
+  },
+  {
+   "month": "Aug",
+   "sales": 459265
+  },
+  {
+   "month": "Sep",
+   "sales": 295194
+  },
+  {
+   "month": "Oct",
+   "sales": 483320
+  },
+  {
+   "month": "Nov",
+   "sales": 176522
+  },
+  {
+   "month": "Dec",
+   "sales": 970286
+  }
+ ],
+ "2014": [
+  {
+   "month": "Jan",
+   "sales": 352590
+  },
+  {
+   "month": "Feb",
+   "sales": 210615
+  },
+  {
+   "month": "Mar",
+   "sales": 166170
+  },
+  {
+   "month": "Apr",
+   "sales": 279373
+  },
+  {
+   "month": "May",
+   "sales": 335746
+  },
+  {
+   "month": "Jun",
+   "sales": 282831
+  },
+  {
+   "month": "Jul",
+   "sales": 355810
+  },
+  {
+   "month": "Aug",
+   "sales": 387100
+  },
+  {
+   "month": "Sep",
+   "sales": 261202
+  },
+  {
+   "month": "Oct",
+   "sales": 256570
+  },
+  {
+   "month": "Nov",
+   "sales": 160261
+  },
+  {
+   "month": "Dec",
+   "sales": 215226
+  }
+ ],
+ "2015": [
+  {
+   "month": "Jan",
+   "sales": 347591
+  },
+  {
+   "month": "Feb",
+   "sales": 170960
+  },
+  {
+   "month": "Mar",
+   "sales": 159774
+  },
+  {
+   "month": "Apr",
+   "sales": 316319
+  },
+  {
+   "month": "May",
+   "sales": 543664
+  },
+  {
+   "month": "Jun",
+   "sales": 221534
+  },
+  {
+   "month": "Jul",
+   "sales": 501044
+  },
+  {
+   "month": "Aug",
+   "sales": 253883
+  },
+  {
+   "month": "Sep",
+   "sales": 486835
+  },
+  {
+   "month": "Oct",
+   "sales": 550307
+  },
+  {
+   "month": "Nov",
+   "sales": 442565
+  },
+  {
+   "month": "Dec",
+   "sales": 289141
+  }
+ ],
+ "2016": [
+  {
+   "month": "Jan",
+   "sales": 360031
+  },
+  {
+   "month": "Feb",
+   "sales": 257512
+  },
+  {
+   "month": "Mar",
+   "sales": 359639
+  },
+  {
+   "month": "Apr",
+   "sales": 217041
+  },
+  {
+   "month": "May",
+   "sales": 426062
+  },
+  {
+   "month": "Jun",
+   "sales": 535904
+  },
+  {
+   "month": "Jul",
+   "sales": 584984
+  },
+  {
+   "month": "Aug",
+   "sales": 514637
+  },
+  {
+   "month": "Sep",
+   "sales": 408769
+  },
+  {
+   "month": "Oct",
+   "sales": 139
+  },
+  {
+   "month": "Nov",
+   "sales": 450937
+  },
+  {
+   "month": "Dec",
+   "sales": 210024
+  }
+ ],
+ "2017": [
+  {
+   "month": "Jan",
+   "sales": 352314
+  },
+  {
+   "month": "Feb",
+   "sales": 132298
+  },
+  {
+   "month": "Mar",
+   "sales": 373089
+  },
+  {
+   "month": "Apr",
+   "sales": 359310
+  },
+  {
+   "month": "May",
+   "sales": 419996
+  },
+  {
+   "month": "Jun",
+   "sales": 627896
+  },
+  {
+   "month": "Jul",
+   "sales": 230258
+  },
+  {
+   "month": "Aug",
+   "sales": 291900
+  },
+  {
+   "month": "Sep",
+   "sales": 245596
+  },
+  {
+   "month": "Oct",
+   "sales": 502992
+  },
+  {
+   "month": "Nov",
+   "sales": 477237
+  },
+  {
+   "month": "Dec",
+   "sales": 285260
+  }
+ ],
+ "2018": [
+  {
+   "month": "Jan",
+   "sales": 259506
+  },
+  {
+   "month": "Feb",
+   "sales": 174284
+  },
+  {
+   "month": "Mar",
+   "sales": 138817
+  },
+  {
+   "month": "Apr",
+   "sales": 53475
+  }
+ ]
+}
